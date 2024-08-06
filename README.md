@@ -10,8 +10,6 @@
 
 :atom: [quready.com](https://quready.com)
 
-:construction: [upwork.com](https://www.upwork.com/freelancers/~015500bdc5ea4cadc5)
-
 :bird: [x.com/rouralberto](https://x.com/rouralberto)
 
 :office: [linkedin.com/in/rouralberto](https://www.linkedin.com/in/rouralberto/)
