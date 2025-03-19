@@ -18,7 +18,7 @@
 
 :tv: [youtube.com/@AlbertoRouraMartinez](https://www.youtube.com/@AlbertoRouraMartinez)
 
-## Things I'm interesting in
+## Things I'm interested in
 
 [`#docker`](https://github.com/topics/docker)
 [`#kubernetes`](https://github.com/topics/kubernetes)
