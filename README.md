@@ -16,7 +16,7 @@
 
 :camera: [instagram.com/rouralberto](https://www.instagram.com/rouralberto/)
 
-:tv: [youtube.com/@AlbertoRouraMartinez](https://www.youtube.com/@AlbertoRouraMartinez)
+:tv: [youtube.com/@AlbertoRouraMartinez](https://www.youtube.com/@rouralberto)
 
 ## Things I'm interested in
 
